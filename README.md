@@ -24,3 +24,5 @@ and the **Total Stock Volume** of the stock. Positive change in stock is higligh
 The second table displays the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
 
 ![](https://github.com/Aastha-Arora/VBA-challenge/blob/master/Images/Output%202.png)
+
+![VBA Script](https://github.com/Aastha-Arora/VBA-challenge/blob/master/Macro_stock_summary.vbs)
