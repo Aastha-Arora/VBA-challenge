@@ -5,7 +5,7 @@ VBA script to analyze real stock market data
 
 Stock data for three years (one year data on one worksheet)
 
-![] (https://github.com/Aastha-Arora/VBA-challenge/blob/master/Images/Input%20Data.png)
+![](https://github.com/Aastha-Arora/VBA-challenge/blob/master/Images/Input%20Data.png)
 
 **VBA Script**
 
@@ -19,8 +19,8 @@ and provides the **Yearly Change** from opening price at the beginning of a give
 the **Percent Change** from opening price at the beginning of a given year to the closing price at the end of that year;
 and the **Total Stock Volume** of the stock. Positive change in stock is higlighed in green and negative change in red using `Conditional Formatting.`
 
-![] (https://github.com/Aastha-Arora/VBA-challenge/blob/master/Images/Output%201.png)
+![](https://github.com/Aastha-Arora/VBA-challenge/blob/master/Images/Output%201.png)
 
 The second table displays the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
 
-![] (https://github.com/Aastha-Arora/VBA-challenge/blob/master/Images/Output%202.png)
+![](https://github.com/Aastha-Arora/VBA-challenge/blob/master/Images/Output%202.png)
