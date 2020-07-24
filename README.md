@@ -7,7 +7,7 @@ Stock data for three years (one year data on one worksheet)
 
 ![](https://github.com/Aastha-Arora/VBA-challenge/blob/master/Images/Input%20Data.png)
 
-**VBA Script**
+[**VBA Script**](https://github.com/Aastha-Arora/VBA-challenge/blob/master/Macro_stock_summary.vbs)
 
 A VBA script was designed to analyze the the data. The script loops through all the worksheets
 and runs the code on each worksheet to analyse the stock data for each year.
@@ -24,5 +24,3 @@ and the **Total Stock Volume** of the stock. Positive change in stock is higligh
 The second table displays the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
 
 ![](https://github.com/Aastha-Arora/VBA-challenge/blob/master/Images/Output%202.png)
-
-[VBA Script](https://github.com/Aastha-Arora/VBA-challenge/blob/master/Macro_stock_summary.vbs)
