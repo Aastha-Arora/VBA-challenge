@@ -25,4 +25,4 @@ The second table displays the stock with the "Greatest % increase", "Greatest % 
 
 ![](https://github.com/Aastha-Arora/VBA-challenge/blob/master/Images/Output%202.png)
 
-![VBA Script](https://github.com/Aastha-Arora/VBA-challenge/blob/master/Macro_stock_summary.vbs)
+[VBA Script](https://github.com/Aastha-Arora/VBA-challenge/blob/master/Macro_stock_summary.vbs)
